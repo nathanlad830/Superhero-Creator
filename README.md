@@ -1,2 +1,3 @@
-# tester
-just a test project
+#SuperHero Creator
+
+Lots and lots of document.write's
