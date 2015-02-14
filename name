@@ -1,0 +1,5 @@
+var name = prompt("Enter Your Name Here");
+if (name !=null)
+{
+  document.write("Hello there "+name);
+}
