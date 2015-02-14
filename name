@@ -1,5 +1,11 @@
+<html>
+<body>
+<script type="text/javascript>
 var name = prompt("Enter Your Name Here");
 if (name !=null)
 {
   document.write("Hello there "+name);
 }
+</script>
+</body>
+</html>
