@@ -1,3 +1,4 @@
+	//setup variables
 	var displayText;
 	var buttonConfirm = confirm("Do You Want To Make A SuperHero?");
 	if (buttonConfirm == true) {
@@ -5,7 +6,7 @@
 	} else {
 		displayText = "<h3>You pressed Cancel!</h3><p />";
 	}
-
+	//write the correct response
 	document.write(displayText);
 
 	if (buttonConfirm == true){
